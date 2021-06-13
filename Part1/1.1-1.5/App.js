@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const course ={
+  const app ={
     name: 'Half Stack application development',
     parts:[
       {
